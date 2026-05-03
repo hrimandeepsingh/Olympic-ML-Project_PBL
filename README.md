@@ -77,6 +77,10 @@ Olympic-ML-Project/
 ## 👨‍💻 Author
 **Hrimandeep Singh**
 
+## 👨‍💻 TEAM MEMBERS
+**Aarav Fangalia**
+**Vansh Kadiyan**
+
 ---
 
 ## ⭐ Conclusion
