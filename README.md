@@ -1,24 +1,36 @@
-# Olympic-ML-Project_PBL
-AI/ML project that predicts top Olympic medal-winning countries using data preprocessing, feature engineering, Random Forest model and more ML models.
-# Olympic Medal Prediction using Machine Learning
+# 🏅 Olympic Medal Prediction using Machine Learning
 
-## Phase 1: Problem Understanding
-- Defined problem of predicting Olympic medal winners
-- Applied Design Thinking approach
-- Created project synopsis
+## 📌 Project Overview
+This project aims to predict which countries are most likely to win medals in the Olympics using Machine Learning techniques.  
+It combines data analysis, feature engineering, and predictive modeling to generate probability-based outcomes.
 
-## Phase 2: Model Development
-- Data preprocessing and cleaning
-- Feature engineering
-- Model training using Random Forest
+---
 
-## Phase 3: Final Output
-- Predicted top countries likely to win medals
-- Generated probability-based results
-- Visualization of outcomes
+## 🎯 Objectives
+- Analyze historical Olympic performance data  
+- Build a predictive model for medal outcomes  
+- Rank countries based on winning probability  
+- Visualize results for better interpretation  
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
+---
+
+## 🧠 Methodology
+1. **Data Collection & Preprocessing**
+   - Cleaned dataset and handled missing values  
+   - Selected relevant numerical features  
+
+2. **Feature Engineering**
+   - Extracted meaningful patterns from data  
+   - Normalized features using StandardScaler  
+
+3. **Model Building**
+   - Implemented **Random Forest Classifier**  
+   - Trained model on processed dataset  
+
+4. **Prediction & Output**
+   - Generated probability scores  
+   - Ranked countries based on likelihood of winning medals  
+
+---
+
+## 📂 Project Structure
