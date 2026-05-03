@@ -34,3 +34,51 @@ It combines data analysis, feature engineering, and predictive modeling to gener
 ---
 
 ## 📂 Project Structure
+Olympic-ML-Project/
+│
+├── Phase-1/ → Problem understanding & synopsis
+├── Phase-2/ → Model development & code
+├── Phase-3/ → Final output & results
+└── README.md
+
+
+---
+
+## 📊 Output
+- Top countries predicted to win medals  
+- Probability-based ranking system  
+- Graphical visualization of results  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+
+---
+
+## 🚀 Key Highlights
+- Applied **Design Thinking approach**  
+- Used **Machine Learning for prediction**  
+- Structured project into clear phases  
+- Implemented probability-based decision making  
+
+---
+
+## 📈 Future Scope
+- Use advanced models (XGBoost, Neural Networks)  
+- Add real-time Olympic data  
+- Improve prediction accuracy with more features  
+
+---
+
+## 👨‍💻 Author
+**Hrimandeep Singh**
+
+---
+
+## ⭐ Conclusion
+This project demonstrates how Machine Learning can be used to analyze sports data and predict outcomes effectively.  
+The use of Random Forest and probability-based ranking provides a reliable approach for forecasting Olympic medal winners.
