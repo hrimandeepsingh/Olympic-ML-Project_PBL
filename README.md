@@ -78,7 +78,7 @@ Olympic-ML-Project/
 **Hrimandeep Singh**
 
 ## 👨‍💻 TEAM MEMBERS
-**Aarav Fangalia**
+**Aarav Fangalia**,
 **Vansh Kadiyan**
 
 ---
